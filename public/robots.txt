@@ -1,0 +1,47 @@
+
+User-agent: *
+
+
+
+# Disallow everything by default
+
+Disallow: /
+
+
+
+# Allow only main pages and product detail pages
+
+Allow: /$
+
+Allow: /catalog$
+
+Allow: /contacts$
+
+Allow: /catalog/
+
+
+
+# Disallow admin and system paths explicitly
+
+Disallow: /admin/
+
+Disallow: /login
+
+Disallow: /register
+
+Disallow: /password/
+
+
+
+# Sitemap for production
+
+Sitemap: https://breath-stone.ru/sitemap.xml
+
+
+
+# Disallow legal pages from indexing
+
+Disallow: /privacy-policy
+
+Disallow: /user-agreement
+

@@ -1,0 +1,13 @@
+<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>BreathStone</title>
+  <desc>Simple faceted stone icon</desc>
+  <!-- Clean hexagon stone with subtle bevel -->
+  <path d="M18 3 L30 11 L30 25 L18 33 L6 25 L6 11 Z" fill="none" stroke="#111111" stroke-width="2"/>
+  <path d="M18 7.8 L26 13 L26 23 L18 28.2 L10 23 L10 13 Z" fill="#111111" opacity="0.12"/>
+  <!-- Single facet line -->
+  <path d="M8.8 12.5 L18 18 L27.2 12.5" stroke="#111111" stroke-width="1.4" opacity="0.4"/>
+</svg>
+
+
+
+

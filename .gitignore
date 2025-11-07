@@ -1,0 +1,4 @@
+vendor/
+.env
+.env.example
+public/indexnow_key.txt
